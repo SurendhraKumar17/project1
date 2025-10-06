@@ -2,5 +2,4 @@ speechrecognition==3.10.0
 pyttsx3==2.90
 requests==2.31.0
 aifc
-pip_1==1.0.0
-pip_2>=2.1
+
